@@ -1,3 +1,4 @@
+//importaciones principales 
 import logo from './logo.svg';
 import './App.css';
 

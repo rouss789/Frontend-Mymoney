@@ -1,0 +1,7 @@
+// Define el punto central de importaciones "src"
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}

@@ -1,0 +1,1 @@
+//importación para pages

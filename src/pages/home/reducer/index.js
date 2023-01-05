@@ -1,0 +1,1 @@
+//funcion principal de redicer
